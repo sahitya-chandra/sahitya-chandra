@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **MERN Stack**
 
-- ⚡ Fun fact **Finding my way through Development**
+- ⚡ Fun fact **Finding my way out through Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
