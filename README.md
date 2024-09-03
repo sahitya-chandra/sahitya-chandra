@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Sahitya</h1>
-<h3 align="center">A passionate Full Stack Developer developer from India</h3>
+
+<div style="text-align: center;"> 
+  <img width="400" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&color=00f3ff&width=535&lines=Hi%2C+I'm+Sahitya%F0%9F%91%8B;Let's+Connect!"/>
+</div>
+
 
 # 💫 About Me:
 I'm currently learning Next JS<br>Ask me about MERN Stack<br> Fun fact It's not a ZERO SUM game 
